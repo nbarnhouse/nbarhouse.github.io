@@ -1,1 +1,22 @@
+body {
+margin: 5% 5% 5%;
 
+}
+
+.exp-header {
+  text-transform: uppercase;
+  
+}
+
+h4,  h6 {
+ margin: 0px;
+}
+
+h5 {
+  margin-bottom: -10px;
+  
+}
+
+h3 {
+  margin-top: 50px;
+}
