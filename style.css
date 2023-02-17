@@ -22,26 +22,6 @@ h3 {
 }
 
 .text-animation {
-    -webkit-animation: colorchange 10s infinite;
     font-weight: bold;
 }
 
-@-webkit-keyframes colorchange {
-  0% {
-    color: #0000FF;
-  }
-  10% {
-    color: r#ff0000;
-  }
-  20% {
-    color: #008000;
-  }
-
-  40% {
-    color: #FFA500;
-  }
-
-  80% {
-    color: #FFC0CB;
-  }
-}
