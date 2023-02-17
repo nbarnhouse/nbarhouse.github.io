@@ -22,9 +22,9 @@ h3 {
 }
 
 .text-animation {
-    font-weight: bold;
-    font-size: 40px;
-    animation: colorchange 3s infinite;
+  font-size: 40px;  
+  font-weight: bold;
+  animation: colorchange 3s infinite;
 }
 
 @keyframes colorchange {
